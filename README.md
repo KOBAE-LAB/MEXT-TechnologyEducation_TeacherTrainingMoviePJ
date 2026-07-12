@@ -36,8 +36,3 @@
 ## ファイル構成
 
 ```text
-src/
-  book_navi_v0_prototype.nako3    # 試作版モデルプログラム
-
-docs/
-  model_program_spec.md           # モデルプログラム仕様メモ
